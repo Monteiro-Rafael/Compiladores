@@ -1,0 +1,8 @@
+int a
+if (x > 5) {
+    y = 10;
+} else {
+    y = 20;
+}
+
+count = 42;
